@@ -290,7 +290,7 @@ spec:
         - name: url
           value: https://github.com/yashvardhannanavati/build-definitions.git
         - name: revision
-          value: main
+          value: operator_foundry_group
         - name: pathInRepo
           value: task/fips-operator-bundle-check-oci-ta/0.1/fips-operator-bundle-check-oci-ta.yaml
         resolver: git
