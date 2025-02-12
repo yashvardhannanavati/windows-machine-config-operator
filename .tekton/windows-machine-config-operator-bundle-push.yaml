@@ -456,6 +456,7 @@ status: {}
 #         path-context
 #       name: dockerfile
 #       type: string
+#
 #     - default: "false"
 #       description: Force rebuild image
 #       name: rebuild
